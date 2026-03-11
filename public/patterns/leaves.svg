@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <defs>
-    <pattern id="leafPattern" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
-      <ellipse cx="15" cy="15" rx="5" ry="8" fill="#90EE90" opacity="0.3" transform="rotate(45 15 15)"/>
-    </pattern>
-  </defs>
-  <rect width="200" height="200" fill="url(#leafPattern)"/>
-</svg>
